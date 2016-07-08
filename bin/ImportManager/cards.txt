@@ -1,0 +1,6 @@
+if home move 5 else move -1
+if 5 away move 3 else move 7
+if 1 away move -1 else move 4
+if 6 away move 3 else move -6
+if 3 away move -3 else move 3
+
